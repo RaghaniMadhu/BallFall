@@ -33,5 +33,3 @@ class Ball:
 
     def refresh_ball(self):
         pygame.display.update(self.ball_id)
-
-hello
